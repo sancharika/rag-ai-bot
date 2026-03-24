@@ -285,3 +285,10 @@ This project is a Multi-Platform AI Assistant that combines:
 - Conversation Memory
 - Vision (Image Captioning)
 - Telegram and Discord Integration
+
+---
+## Author
+
+[Sancharika Debnath](https://sancharika.github.io/)
+
+AI/ML Developer | RAG | LLM | Generative AI | Knowledge Graphs
