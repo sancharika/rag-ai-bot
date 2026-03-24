@@ -5,6 +5,8 @@ A multi-platform AI assistant built using Retrieval-Augmented Generation (RAG) w
 The bot can answer questions from your documents, remember conversation context, and describe uploaded images.
 
 ---
+![Demo](demo.gif)
+---
 
 ## Features
 
