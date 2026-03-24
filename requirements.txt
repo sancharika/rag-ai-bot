@@ -1,0 +1,12 @@
+discord.py
+python-telegram-bot==20.7
+python-dotenv
+sentence-transformers
+nltk
+numpy
+sqlite-utils
+ollama
+transformers 
+pillow 
+torch
+faiss-cpu
